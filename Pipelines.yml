@@ -19,8 +19,8 @@ jobs:
 
     - name: Instalar dependências
       run: |
-        npm install  # Instala as dependências do projeto
+        npm install  
 
     - name: Rodar testes
       run: |
-        npm test  # Roda os testes definidos no projeto
+        npm test  
